@@ -19,6 +19,6 @@
         }
     }
 
-    setTimeout(collect, 5000);
+    setInterval(collect, 5000);
 
 })();
