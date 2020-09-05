@@ -13,7 +13,7 @@
     'use strict';
 
     function collect() {
-        const elements = document.getElementsByClass('claimable-bonus__icon');
+        const elements = document.querySelectorAll('.claimable-bonus__icon');
         for (let element of elements) {
             element.click();
         }
