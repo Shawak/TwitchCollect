@@ -2,7 +2,7 @@
 // @name         TwitchCollect
 // @namespace    https://github.com/Shawak/TwitchCollect
 // @author       Shawak
-// @version      0.0.1
+// @version      0.0.2
 // @description  Automatically collect twitch channel points
 // @match        *://*.twitch.tv/*
 // @downloadURL  https://github.com/Shawak/TwitchCollect/raw/master/twitchcollect.user.js
