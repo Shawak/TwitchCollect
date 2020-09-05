@@ -1,6 +1,6 @@
 # TwitchCollect
 
-Userscript to automatically collect twitch [channel points](https://help.twitch.tv/s/article/channel-points-guide?language=en_US).
+Userscript to automatically collect Twitch [channel points](https://help.twitch.tv/s/article/channel-points-guide?language=en_US).
 
 ## Install
 
